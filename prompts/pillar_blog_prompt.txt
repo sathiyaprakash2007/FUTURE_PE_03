@@ -1,0 +1,22 @@
+You are an SEO content writer for business websites.
+
+Task:
+Write a long-form pillar blog optimized for Google rankings.
+
+Primary Keyword:
+{service} in {city}
+
+Requirements:
+- SEO-friendly H1, H2, H3 headings
+- Clear sections and simple language
+- Helpful and human, not keyword stuffing
+- Local SEO focus (city mentions)
+- Business-oriented conclusion with CTA
+
+Include:
+- Services overview
+- Benefits
+- FAQs
+- Internal linking suggestions
+- Trust-building tone
+
